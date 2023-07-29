@@ -4,5 +4,5 @@
 <h4> <ul> <li>💻 Dev Front-end </li> <li>🎓 Formada em Analise e Desenvolvimento de sistemas.</li></h4>
 
 # 💻 Tech Stack:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
           
